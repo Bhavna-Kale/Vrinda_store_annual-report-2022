@@ -6,7 +6,7 @@ To analyze the yearly sales performance of Vrinda Store and identify customer se
 
 ---
 
-##⭐ Key Insights & Findings
+#⭐**Key Insights & Findings**
 - Women customers contributed more sales than men
 - Adult age group recorded the highest number of purchases
 - Maharashtra, Karnataka and Uttar Pradesh were the top revenue-generating states
@@ -16,7 +16,7 @@ To analyze the yearly sales performance of Vrinda Store and identify customer se
 - Repeat customers contributed significantly to the total revenue
 
 
- ##🔥 Key Features of the Report
+ #🔥 **Key Features of the Report**
 - Clean & transformed dataset for analysis
 - Interactive dashboard with slicers and filters
 - Gender-wise, age-wise and state-wise performance comparison
@@ -24,7 +24,7 @@ To analyze the yearly sales performance of Vrinda Store and identify customer se
 - Monthly sales trend & seasonality analysis
 - Sales channel breakdown and customer segmentation
 
-##📊 Metrics Used
+#📊 **Metrics Used**
 - Total Sales
 - Total Quantity Sold
 - Total Orders
