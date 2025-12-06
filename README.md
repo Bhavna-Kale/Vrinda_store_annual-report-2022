@@ -47,5 +47,6 @@ To analyze the yearly sales performance of Vrinda Store and identify customer se
 ---
 
 ## 👁 Dashboard Preview
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7c4dc55c-7481-463e-b39b-77d385a36167" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1f9e1a82-b793-47aa-b935-d3d74a4d80ce" />
+
 
